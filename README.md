@@ -1,6 +1,6 @@
 # Scringo Android Sample App:
 
-I was trying to integrate Scringo for learning and seeing what all features it has got. I tried their sample app from the Github link
+I was trying to integrate Scringo for learning about the features it has got. I tried their sample app from the Github link
 https://github.com/Scringo/ScringoSimpleSample-android but it didn't work out-of-box. I then decided to merge library with Sample project
 and it worked. Hope it will save someone's else time looking at it before Scringo team fixes the problem for smooth integration.
 
