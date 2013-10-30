@@ -7,7 +7,5 @@ and it worked. Hope it will save someone's else time looking at it before Scring
 # Before Running App:
 Replace <YOUR_SCRINGO_APP_ID> in MainActivity.java with your Scringo App Id (See below how to obtain it if you don't have one already).
 
-![Screenshot](https://github.com/sumanranjan/ScringoSimpleSample/raw/device-2013-10-30-225538.png)
-
 ![Screenshot](https://github.com/sumanranjan/ScringoSimpleSample/raw/master/device-2013-10-30-225528.png)
 
